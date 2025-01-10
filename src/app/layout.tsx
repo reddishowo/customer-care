@@ -36,6 +36,7 @@ export default function RootLayout({
                   <li><a href="/">Home</a></li>
                   <li><a href="/faq">FAQ</a></li>
                   <li><a href="/contact">Contact</a></li>
+                  <li><a href="/queue">Queue</a></li>
                 </ul>
               </div>
               <div className="navbar-end">
@@ -62,6 +63,7 @@ export default function RootLayout({
               <li><a href="/">Home</a></li>
               <li><a href="/faq">FAQ</a></li>
               <li><a href="/contact">Contact</a></li>
+              <li><a href="/queue">Queue</a></li>
             </ul>
           </div>
         </div>
